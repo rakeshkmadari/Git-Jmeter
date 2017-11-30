@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testResults version="1.2">
+<httpSample t="4318" it="0" lt="577" ct="272" ts="1511857399147" s="true" lb="AmazonIndia" rc="200" rm="OK" tn="Tesing.inpage 1-1" dt="text" by="415770" sby="234" ng="1" na="1">
+  <httpSample t="578" it="0" lt="577" ct="272" ts="1511857399147" s="true" lb="http://www.amazon.in/" rc="301" rm="Moved Permanently" tn="Tesing.inpage 1-1" dt="text" by="441" sby="117" ng="1" na="1"/>
+  <httpSample t="3737" it="0" lt="1962" ct="961" ts="1511857399728" s="true" lb="https://www.amazon.in/" rc="200" rm="OK" tn="Tesing.inpage 1-1" dt="text" by="415329" sby="117" ng="1" na="1"/>
+</httpSample>
+
+<httpSample t="3783" it="0" lt="582" ct="264" ts="1511857435654" s="true" lb="AmazonIndia" rc="200" rm="OK" tn="Tesing.inpage 1-1" dt="text" by="414995" sby="234" ng="1" na="1">
+  <httpSample t="582" it="0" lt="582" ct="264" ts="1511857435654" s="true" lb="http://www.amazon.in/" rc="301" rm="Moved Permanently" tn="Tesing.inpage 1-1" dt="text" by="441" sby="117" ng="1" na="1"/>
+  <httpSample t="3196" it="0" lt="1363" ct="884" ts="1511857436241" s="true" lb="https://www.amazon.in/" rc="200" rm="OK" tn="Tesing.inpage 1-1" dt="text" by="414554" sby="117" ng="1" na="1"/>
+</httpSample>
+
+<httpSample t="3565" it="0" lt="381" ct="146" ts="1511857450597" s="true" lb="AmazonIndia" rc="200" rm="OK" tn="Tesing.inpage 1-1" dt="text" by="386303" sby="234" ng="1" na="1">
+  <httpSample t="381" it="0" lt="381" ct="146" ts="1511857450597" s="true" lb="http://www.amazon.in/" rc="301" rm="Moved Permanently" tn="Tesing.inpage 1-1" dt="text" by="441" sby="117" ng="1" na="1"/>
+  <httpSample t="3182" it="0" lt="1291" ct="827" ts="1511857450980" s="true" lb="https://www.amazon.in/" rc="200" rm="OK" tn="Tesing.inpage 1-1" dt="text" by="385862" sby="117" ng="1" na="1"/>
+</httpSample>
+
+<httpSample t="5905" it="0" lt="665" ct="301" ts="1511857499645" s="true" lb="AmazonIndia" rc="200" rm="OK" tn="Tesing.inpage 1-1" dt="text" by="415814" sby="234" ng="1" na="1">
+  <httpSample t="665" it="0" lt="665" ct="301" ts="1511857499645" s="true" lb="http://www.amazon.in/" rc="301" rm="Moved Permanently" tn="Tesing.inpage 1-1" dt="text" by="614" sby="117" ng="1" na="1"/>
+  <httpSample t="5237" it="0" lt="1866" ct="1581" ts="1511857500313" s="true" lb="https://www.amazon.in/" rc="200" rm="OK" tn="Tesing.inpage 1-1" dt="text" by="415200" sby="117" ng="1" na="1"/>
+</httpSample>
+
+<httpSample t="3494" it="0" lt="435" ct="195" ts="1511857671869" s="true" lb="AmazonIndia" rc="200" rm="OK" tn="Tesing.inpage 1-1" dt="text" by="415911" sby="234" ng="1" na="1">
+  <httpSample t="435" it="0" lt="435" ct="195" ts="1511857671869" s="true" lb="http://www.amazon.in/" rc="301" rm="Moved Permanently" tn="Tesing.inpage 1-1" dt="text" by="614" sby="117" ng="1" na="1"/>
+  <httpSample t="3058" it="0" lt="1131" ct="904" ts="1511857672305" s="true" lb="https://www.amazon.in/" rc="200" rm="OK" tn="Tesing.inpage 1-1" dt="text" by="415297" sby="117" ng="1" na="1"/>
+</httpSample>
+
+<httpSample t="3526" it="0" lt="803" ct="562" ts="1511857721574" s="true" lb="AmazonIndia" rc="200" rm="OK" tn="Tesing.inpage 1-1" dt="text" by="387105" sby="234" ng="1" na="1">
+  <httpSample t="804" it="0" lt="803" ct="562" ts="1511857721574" s="true" lb="http://www.amazon.in/" rc="301" rm="Moved Permanently" tn="Tesing.inpage 1-1" dt="text" by="614" sby="117" ng="1" na="1"/>
+  <httpSample t="2720" it="0" lt="1202" ct="962" ts="1511857722380" s="true" lb="https://www.amazon.in/" rc="200" rm="OK" tn="Tesing.inpage 1-1" dt="text" by="386491" sby="117" ng="1" na="1"/>
+</httpSample>
+
+<httpSample t="3605" it="0" lt="521" ct="216" ts="1511858170188" s="true" lb="AmazonIndia" rc="200" rm="OK" tn="Tesing.inpage 1-1" dt="text" by="415187" sby="234" ng="1" na="1">
+  <httpSample t="522" it="0" lt="521" ct="216" ts="1511858170188" s="true" lb="http://www.amazon.in/" rc="301" rm="Moved Permanently" tn="Tesing.inpage 1-1" dt="text" by="441" sby="117" ng="1" na="1"/>
+  <httpSample t="3081" it="0" lt="1748" ct="1173" ts="1511858170712" s="true" lb="https://www.amazon.in/" rc="200" rm="OK" tn="Tesing.inpage 1-1" dt="text" by="414746" sby="117" ng="1" na="1"/>
+</httpSample>
+<httpSample t="2194" it="0" lt="328" ct="40" ts="1511858173807" s="true" lb="Offers" rc="200" rm="OK" tn="Tesing.inpage 1-1" dt="text" by="479057" sby="284" ng="1" na="1">
+  <httpSample t="328" it="0" lt="328" ct="40" ts="1511858173807" s="true" lb="http://www.amazon.in/gp/goldbox/ref=nav_cs_gb/" rc="301" rm="Moved Permanently" tn="Tesing.inpage 1-1" dt="text" by="491" sby="142" ng="1" na="1"/>
+  <httpSample t="1866" it="0" lt="654" ct="112" ts="1511858174135" s="true" lb="https://www.amazon.in/gp/goldbox/ref=nav_cs_gb/" rc="200" rm="OK" tn="Tesing.inpage 1-1" dt="text" by="478566" sby="142" ng="1" na="1"/>
+</httpSample>
+<httpSample t="1255" it="0" lt="320" ct="57" ts="1511858176002" s="true" lb="Amazonpay" rc="200" rm="OK" tn="Tesing.inpage 1-1" dt="text" by="125642" sby="300" ng="1" na="1">
+  <httpSample t="320" it="0" lt="320" ct="57" ts="1511858176002" s="true" lb="http://www.amazon.in/gp/sva/dashboard/ref=nav_nav_apay" rc="301" rm="Moved Permanently" tn="Tesing.inpage 1-1" dt="text" by="507" sby="150" ng="1" na="1"/>
+  <httpSample t="934" it="0" lt="596" ct="117" ts="1511858176323" s="true" lb="https://www.amazon.in/gp/sva/dashboard/ref=nav_nav_apay" rc="200" rm="OK" tn="Tesing.inpage 1-1" dt="text" by="125135" sby="150" ng="1" na="1"/>
+</httpSample>
+<httpSample t="982" it="0" lt="272" ct="0" ts="1511858177258" s="true" lb="Amazoncart" rc="200" rm="OK" tn="Tesing.inpage 1-1" dt="text" by="126369" sby="296" ng="1" na="1">
+  <httpSample t="272" it="0" lt="272" ct="0" ts="1511858177258" s="true" lb="http://www.amazon.in/gp/cart/view.html/ref=nav_cart/" rc="301" rm="Moved Permanently" tn="Tesing.inpage 1-1" dt="text" by="503" sby="148" ng="1" na="1"/>
+  <httpSample t="709" it="0" lt="468" ct="0" ts="1511858177531" s="true" lb="https://www.amazon.in/gp/cart/view.html/ref=nav_cart/" rc="200" rm="OK" tn="Tesing.inpage 1-1" dt="text" by="125866" sby="148" ng="1" na="1"/>
+</httpSample>
+
+<httpSample t="3445" it="0" lt="484" ct="205" ts="1511858201503" s="true" lb="AmazonIndia" rc="200" rm="OK" tn="Tesing.inpage 1-1" dt="text" by="386941" sby="234" ng="1" na="1">
+  <httpSample t="484" it="0" lt="484" ct="205" ts="1511858201503" s="true" lb="http://www.amazon.in/" rc="301" rm="Moved Permanently" tn="Tesing.inpage 1-1" dt="text" by="441" sby="117" ng="1" na="1"/>
+  <httpSample t="2958" it="0" lt="1356" ct="940" ts="1511858201990" s="true" lb="https://www.amazon.in/" rc="200" rm="OK" tn="Tesing.inpage 1-1" dt="text" by="386500" sby="117" ng="1" na="1"/>
+</httpSample>
+<httpSample t="3151" it="0" lt="576" ct="373" ts="1511858204955" s="true" lb="Offers" rc="200" rm="OK" tn="Tesing.inpage 1-1" dt="text" by="478948" sby="284" ng="1" na="1">
+  <httpSample t="576" it="0" lt="576" ct="373" ts="1511858204955" s="true" lb="http://www.amazon.in/gp/goldbox/ref=nav_cs_gb/" rc="301" rm="Moved Permanently" tn="Tesing.inpage 1-1" dt="text" by="491" sby="142" ng="1" na="1"/>
+  <httpSample t="2575" it="0" lt="1269" ct="104" ts="1511858205531" s="true" lb="https://www.amazon.in/gp/goldbox/ref=nav_cs_gb/" rc="200" rm="OK" tn="Tesing.inpage 1-1" dt="text" by="478457" sby="142" ng="1" na="1"/>
+</httpSample>
+<httpSample t="2375" it="0" lt="536" ct="50" ts="1511858208107" s="true" lb="Amazonpay" rc="200" rm="OK" tn="Tesing.inpage 1-1" dt="text" by="125742" sby="300" ng="1" na="1">
+  <httpSample t="536" it="0" lt="536" ct="50" ts="1511858208107" s="true" lb="http://www.amazon.in/gp/sva/dashboard/ref=nav_nav_apay" rc="301" rm="Moved Permanently" tn="Tesing.inpage 1-1" dt="text" by="507" sby="150" ng="1" na="1"/>
+  <httpSample t="1838" it="0" lt="1197" ct="446" ts="1511858208644" s="true" lb="https://www.amazon.in/gp/sva/dashboard/ref=nav_nav_apay" rc="200" rm="OK" tn="Tesing.inpage 1-1" dt="text" by="125235" sby="150" ng="1" na="1"/>
+</httpSample>
+<httpSample t="2020" it="0" lt="279" ct="69" ts="1511858210482" s="true" lb="Amazoncart" rc="200" rm="OK" tn="Tesing.inpage 1-1" dt="text" by="126636" sby="296" ng="1" na="1">
+  <httpSample t="279" it="0" lt="279" ct="69" ts="1511858210482" s="true" lb="http://www.amazon.in/gp/cart/view.html/ref=nav_cart/" rc="301" rm="Moved Permanently" tn="Tesing.inpage 1-1" dt="text" by="503" sby="148" ng="1" na="1"/>
+  <httpSample t="1740" it="0" lt="1157" ct="131" ts="1511858210762" s="true" lb="https://www.amazon.in/gp/cart/view.html/ref=nav_cart/" rc="200" rm="OK" tn="Tesing.inpage 1-1" dt="text" by="126133" sby="148" ng="1" na="1"/>
+</httpSample>
+
+<httpSample t="22189" it="0" lt="4026" ct="3331" ts="1511858243705" s="false" lb="AmazonIndia" rc="Non HTTP response code: org.apache.http.ConnectionClosedException" rm="Non HTTP response message: Premature end of chunk coded message body: closing chunk expected" tn="Tesing.inpage 1-1" dt="text" by="2329" sby="117" ng="1" na="1">
+  <httpSample t="4027" it="0" lt="4026" ct="3331" ts="1511858243705" s="true" lb="http://www.amazon.in/" rc="301" rm="Moved Permanently" tn="Tesing.inpage 1-1" dt="text" by="441" sby="117" ng="1" na="1"/>
+  <httpSample t="18154" it="0" lt="11414" ct="8877" ts="1511858247740" s="false" lb="https://www.amazon.in/" rc="Non HTTP response code: org.apache.http.ConnectionClosedException" rm="Non HTTP response message: Premature end of chunk coded message body: closing chunk expected" tn="Tesing.inpage 1-1" dt="text" by="1888" sby="0" ng="1" na="1"/>
+</httpSample>
+<httpSample t="17293" it="0" lt="2753" ct="2562" ts="1511858265900" s="true" lb="Offers" rc="200" rm="OK" tn="Tesing.inpage 1-1" dt="text" by="478960" sby="284" ng="1" na="1">
+  <httpSample t="2753" it="0" lt="2753" ct="2562" ts="1511858265900" s="true" lb="http://www.amazon.in/gp/goldbox/ref=nav_cs_gb/" rc="301" rm="Moved Permanently" tn="Tesing.inpage 1-1" dt="text" by="491" sby="142" ng="1" na="1"/>
+  <httpSample t="14539" it="0" lt="5290" ct="2041" ts="1511858268654" s="true" lb="https://www.amazon.in/gp/goldbox/ref=nav_cs_gb/" rc="200" rm="OK" tn="Tesing.inpage 1-1" dt="text" by="478469" sby="142" ng="1" na="1"/>
+</httpSample>
+<httpSample t="18464" it="0" lt="2966" ct="1229" ts="1511858283196" s="true" lb="Amazonpay" rc="200" rm="OK" tn="Tesing.inpage 1-1" dt="text" by="125653" sby="300" ng="1" na="1">
+  <httpSample t="2966" it="0" lt="2966" ct="1229" ts="1511858283196" s="true" lb="http://www.amazon.in/gp/sva/dashboard/ref=nav_nav_apay" rc="301" rm="Moved Permanently" tn="Tesing.inpage 1-1" dt="text" by="507" sby="150" ng="1" na="1"/>
+  <httpSample t="15497" it="0" lt="12776" ct="4065" ts="1511858286163" s="true" lb="https://www.amazon.in/gp/sva/dashboard/ref=nav_nav_apay" rc="200" rm="OK" tn="Tesing.inpage 1-1" dt="text" by="125146" sby="150" ng="1" na="1"/>
+</httpSample>
+<httpSample t="7423" it="0" lt="1234" ct="53" ts="1511858301661" s="true" lb="Amazoncart" rc="200" rm="OK" tn="Tesing.inpage 1-1" dt="text" by="126562" sby="296" ng="1" na="1">
+  <httpSample t="1234" it="0" lt="1234" ct="53" ts="1511858301661" s="true" lb="http://www.amazon.in/gp/cart/view.html/ref=nav_cart/" rc="301" rm="Moved Permanently" tn="Tesing.inpage 1-1" dt="text" by="503" sby="148" ng="1" na="1"/>
+  <httpSample t="6188" it="0" lt="5039" ct="2335" ts="1511858302896" s="true" lb="https://www.amazon.in/gp/cart/view.html/ref=nav_cart/" rc="200" rm="OK" tn="Tesing.inpage 1-1" dt="text" by="126059" sby="148" ng="1" na="1"/>
+</httpSample>
+
+<httpSample t="19417" it="0" lt="3494" ct="2427" ts="1511858311872" s="true" lb="AmazonIndia" rc="200" rm="OK" tn="Tesing.inpage 1-1" dt="text" by="415386" sby="234" ng="1" na="1">
+  <httpSample t="3494" it="0" lt="3494" ct="2427" ts="1511858311872" s="true" lb="http://www.amazon.in/" rc="301" rm="Moved Permanently" tn="Tesing.inpage 1-1" dt="text" by="441" sby="117" ng="1" na="1"/>
+  <httpSample t="15920" it="0" lt="10018" ct="5839" ts="1511858315369" s="true" lb="https://www.amazon.in/" rc="200" rm="OK" tn="Tesing.inpage 1-1" dt="text" by="414945" sby="117" ng="1" na="1"/>
+</httpSample>
+<httpSample t="15198" it="0" lt="2912" ct="2093" ts="1511858331295" s="true" lb="Offers" rc="200" rm="OK" tn="Tesing.inpage 1-1" dt="text" by="478962" sby="284" ng="1" na="1">
+  <httpSample t="2912" it="0" lt="2912" ct="2093" ts="1511858331295" s="true" lb="http://www.amazon.in/gp/goldbox/ref=nav_cs_gb/" rc="301" rm="Moved Permanently" tn="Tesing.inpage 1-1" dt="text" by="491" sby="142" ng="1" na="1"/>
+  <httpSample t="12285" it="0" lt="3534" ct="1883" ts="1511858334208" s="true" lb="https://www.amazon.in/gp/goldbox/ref=nav_cs_gb/" rc="200" rm="OK" tn="Tesing.inpage 1-1" dt="text" by="478471" sby="142" ng="1" na="1"/>
+</httpSample>
+<httpSample t="1583" it="0" lt="429" ct="146" ts="1511858346493" s="true" lb="Amazonpay" rc="200" rm="OK" tn="Tesing.inpage 1-1" dt="text" by="125492" sby="300" ng="1" na="1">
+  <httpSample t="429" it="0" lt="429" ct="146" ts="1511858346493" s="true" lb="http://www.amazon.in/gp/sva/dashboard/ref=nav_nav_apay" rc="301" rm="Moved Permanently" tn="Tesing.inpage 1-1" dt="text" by="507" sby="150" ng="1" na="1"/>
+  <httpSample t="1153" it="0" lt="680" ct="128" ts="1511858346923" s="true" lb="https://www.amazon.in/gp/sva/dashboard/ref=nav_nav_apay" rc="200" rm="OK" tn="Tesing.inpage 1-1" dt="text" by="124985" sby="150" ng="1" na="1"/>
+</httpSample>
+<httpSample t="8601" it="0" lt="2243" ct="0" ts="1511858348077" s="true" lb="Amazoncart" rc="200" rm="OK" tn="Tesing.inpage 1-1" dt="text" by="126588" sby="296" ng="1" na="1">
+  <httpSample t="2243" it="0" lt="2243" ct="0" ts="1511858348077" s="true" lb="http://www.amazon.in/gp/cart/view.html/ref=nav_cart/" rc="301" rm="Moved Permanently" tn="Tesing.inpage 1-1" dt="text" by="503" sby="148" ng="1" na="1"/>
+  <httpSample t="6358" it="0" lt="5918" ct="3206" ts="1511858350320" s="true" lb="https://www.amazon.in/gp/cart/view.html/ref=nav_cart/" rc="200" rm="OK" tn="Tesing.inpage 1-1" dt="text" by="126085" sby="148" ng="1" na="1"/>
+</httpSample>
+
+<httpSample t="4786" it="0" lt="565" ct="288" ts="1511858633329" s="true" lb="AmazonIndia" rc="200" rm="OK" tn="Tesing.inpage 1-1" dt="text" by="422891" sby="234" ng="1" na="1">
+  <httpSample t="565" it="0" lt="565" ct="288" ts="1511858633329" s="true" lb="http://www.amazon.in/" rc="301" rm="Moved Permanently" tn="Tesing.inpage 1-1" dt="text" by="441" sby="117" ng="1" na="1"/>
+  <httpSample t="4218" it="0" lt="2441" ct="1694" ts="1511858633897" s="true" lb="https://www.amazon.in/" rc="200" rm="OK" tn="Tesing.inpage 1-1" dt="text" by="422450" sby="117" ng="1" na="1"/>
+</httpSample>
+<httpSample t="3029" it="0" lt="645" ct="408" ts="1511858638125" s="true" lb="Offers" rc="200" rm="OK" tn="Tesing.inpage 1-1" dt="text" by="478955" sby="284" ng="1" na="1">
+  <httpSample t="645" it="0" lt="645" ct="408" ts="1511858638125" s="true" lb="http://www.amazon.in/gp/goldbox/ref=nav_cs_gb/" rc="301" rm="Moved Permanently" tn="Tesing.inpage 1-1" dt="text" by="491" sby="142" ng="1" na="1"/>
+  <httpSample t="2384" it="0" lt="1050" ct="461" ts="1511858638770" s="true" lb="https://www.amazon.in/gp/goldbox/ref=nav_cs_gb/" rc="200" rm="OK" tn="Tesing.inpage 1-1" dt="text" by="478464" sby="142" ng="1" na="1"/>
+</httpSample>
+<httpSample t="2134" it="0" lt="583" ct="68" ts="1511858641156" s="true" lb="Amazonpay" rc="200" rm="OK" tn="Tesing.inpage 1-1" dt="text" by="125643" sby="300" ng="1" na="1">
+  <httpSample t="583" it="0" lt="583" ct="68" ts="1511858641156" s="true" lb="http://www.amazon.in/gp/sva/dashboard/ref=nav_nav_apay" rc="301" rm="Moved Permanently" tn="Tesing.inpage 1-1" dt="text" by="507" sby="150" ng="1" na="1"/>
+  <httpSample t="1551" it="0" lt="766" ct="169" ts="1511858641739" s="true" lb="https://www.amazon.in/gp/sva/dashboard/ref=nav_nav_apay" rc="200" rm="OK" tn="Tesing.inpage 1-1" dt="text" by="125136" sby="150" ng="1" na="1"/>
+</httpSample>
+<httpSample t="1671" it="0" lt="423" ct="45" ts="1511858643291" s="true" lb="Amazoncart" rc="200" rm="OK" tn="Tesing.inpage 1-1" dt="text" by="126113" sby="296" ng="1" na="1">
+  <httpSample t="423" it="0" lt="423" ct="45" ts="1511858643291" s="true" lb="http://www.amazon.in/gp/cart/view.html/ref=nav_cart/" rc="301" rm="Moved Permanently" tn="Tesing.inpage 1-1" dt="text" by="503" sby="148" ng="1" na="1"/>
+  <httpSample t="1248" it="0" lt="588" ct="0" ts="1511858643714" s="true" lb="https://www.amazon.in/gp/cart/view.html/ref=nav_cart/" rc="200" rm="OK" tn="Tesing.inpage 1-1" dt="text" by="125610" sby="148" ng="1" na="1"/>
+</httpSample>
+
+<httpSample t="3381" it="0" lt="416" ct="181" ts="1511858665481" s="true" lb="AmazonIndia" rc="200" rm="OK" tn="Tesing.inpage 1-1" dt="text" by="415388" sby="234" ng="1" na="1">
+  <httpSample t="417" it="0" lt="416" ct="181" ts="1511858665481" s="true" lb="http://www.amazon.in/" rc="301" rm="Moved Permanently" tn="Tesing.inpage 1-1" dt="text" by="441" sby="117" ng="1" na="1"/>
+  <httpSample t="2960" it="0" lt="1320" ct="904" ts="1511858665902" s="true" lb="https://www.amazon.in/" rc="200" rm="OK" tn="Tesing.inpage 1-1" dt="text" by="414947" sby="117" ng="1" na="1"/>
+</httpSample>
+<httpSample t="2796" it="0" lt="351" ct="49" ts="1511858668886" s="true" lb="Offers" rc="200" rm="OK" tn="Tesing.inpage 1-1" dt="text" by="479020" sby="284" ng="1" na="1">
+  <httpSample t="351" it="0" lt="351" ct="49" ts="1511858668886" s="true" lb="http://www.amazon.in/gp/goldbox/ref=nav_cs_gb/" rc="301" rm="Moved Permanently" tn="Tesing.inpage 1-1" dt="text" by="491" sby="142" ng="1" na="1"/>
+  <httpSample t="2445" it="0" lt="652" ct="144" ts="1511858669237" s="true" lb="https://www.amazon.in/gp/goldbox/ref=nav_cs_gb/" rc="200" rm="OK" tn="Tesing.inpage 1-1" dt="text" by="478529" sby="142" ng="1" na="1"/>
+</httpSample>
+<httpSample t="2762" it="0" lt="476" ct="287" ts="1511858671684" s="true" lb="Amazonpay" rc="200" rm="OK" tn="Tesing.inpage 1-1" dt="text" by="125655" sby="300" ng="1" na="1">
+  <httpSample t="476" it="0" lt="476" ct="287" ts="1511858671684" s="true" lb="http://www.amazon.in/gp/sva/dashboard/ref=nav_nav_apay" rc="301" rm="Moved Permanently" tn="Tesing.inpage 1-1" dt="text" by="507" sby="150" ng="1" na="1"/>
+  <httpSample t="2285" it="0" lt="1731" ct="151" ts="1511858672161" s="true" lb="https://www.amazon.in/gp/sva/dashboard/ref=nav_nav_apay" rc="200" rm="OK" tn="Tesing.inpage 1-1" dt="text" by="125148" sby="150" ng="1" na="1"/>
+</httpSample>
+<httpSample t="1191" it="0" lt="336" ct="59" ts="1511858674447" s="true" lb="Amazoncart" rc="200" rm="OK" tn="Tesing.inpage 1-1" dt="text" by="126022" sby="296" ng="1" na="1">
+  <httpSample t="336" it="0" lt="336" ct="59" ts="1511858674447" s="true" lb="http://www.amazon.in/gp/cart/view.html/ref=nav_cart/" rc="301" rm="Moved Permanently" tn="Tesing.inpage 1-1" dt="text" by="503" sby="148" ng="1" na="1"/>
+  <httpSample t="855" it="0" lt="539" ct="117" ts="1511858674783" s="true" lb="https://www.amazon.in/gp/cart/view.html/ref=nav_cart/" rc="200" rm="OK" tn="Tesing.inpage 1-1" dt="text" by="125519" sby="148" ng="1" na="1"/>
+</httpSample>
+
+<httpSample t="5382" it="0" lt="474" ct="252" ts="1511863706170" s="true" lb="AmazonIndia" rc="200" rm="OK" tn="Tesing.inpage 1-1" dt="text" by="378601" sby="234" ng="1" na="1">
+  <httpSample t="474" it="0" lt="474" ct="252" ts="1511863706170" s="true" lb="http://www.amazon.in/" rc="301" rm="Moved Permanently" tn="Tesing.inpage 1-1" dt="text" by="614" sby="117" ng="1" na="1"/>
+  <httpSample t="4905" it="0" lt="1212" ct="966" ts="1511863706647" s="true" lb="https://www.amazon.in/" rc="200" rm="OK" tn="Tesing.inpage 1-1" dt="text" by="377987" sby="117" ng="1" na="1"/>
+</httpSample>
+<httpSample t="4022" it="0" lt="226" ct="41" ts="1511863711582" s="true" lb="Offers" rc="200" rm="OK" tn="Tesing.inpage 1-1" dt="text" by="478767" sby="284" ng="1" na="1">
+  <httpSample t="226" it="0" lt="226" ct="41" ts="1511863711582" s="true" lb="http://www.amazon.in/gp/goldbox/ref=nav_cs_gb/" rc="301" rm="Moved Permanently" tn="Tesing.inpage 1-1" dt="text" by="664" sby="142" ng="1" na="1"/>
+  <httpSample t="3796" it="0" lt="525" ct="123" ts="1511863711808" s="true" lb="https://www.amazon.in/gp/goldbox/ref=nav_cs_gb/" rc="200" rm="OK" tn="Tesing.inpage 1-1" dt="text" by="478103" sby="142" ng="1" na="1"/>
+</httpSample>
+<httpSample t="2391" it="0" lt="301" ct="62" ts="1511863715605" s="true" lb="Amazonpay" rc="200" rm="OK" tn="Tesing.inpage 1-1" dt="text" by="125365" sby="300" ng="1" na="1">
+  <httpSample t="301" it="0" lt="301" ct="62" ts="1511863715605" s="true" lb="http://www.amazon.in/gp/sva/dashboard/ref=nav_nav_apay" rc="301" rm="Moved Permanently" tn="Tesing.inpage 1-1" dt="text" by="507" sby="150" ng="1" na="1"/>
+  <httpSample t="2090" it="0" lt="1293" ct="694" ts="1511863715906" s="true" lb="https://www.amazon.in/gp/sva/dashboard/ref=nav_nav_apay" rc="200" rm="OK" tn="Tesing.inpage 1-1" dt="text" by="124858" sby="150" ng="1" na="1"/>
+</httpSample>
+<httpSample t="2492" it="0" lt="608" ct="293" ts="1511863717997" s="true" lb="Amazoncart" rc="200" rm="OK" tn="Tesing.inpage 1-1" dt="text" by="126101" sby="296" ng="1" na="1">
+  <httpSample t="608" it="0" lt="608" ct="293" ts="1511863717997" s="true" lb="http://www.amazon.in/gp/cart/view.html/ref=nav_cart/" rc="301" rm="Moved Permanently" tn="Tesing.inpage 1-1" dt="text" by="503" sby="148" ng="1" na="1"/>
+  <httpSample t="1884" it="0" lt="1218" ct="131" ts="1511863718605" s="true" lb="https://www.amazon.in/gp/cart/view.html/ref=nav_cart/" rc="200" rm="OK" tn="Tesing.inpage 1-1" dt="text" by="125598" sby="148" ng="1" na="1"/>
+</httpSample>
+
+<httpSample t="6575" it="0" lt="527" ct="263" ts="1511863874956" s="true" lb="AmazonIndia" rc="200" rm="OK" tn="Tesing.inpage 1-1" dt="text" by="378096" sby="234" ng="1" na="1">
+  <httpSample t="527" it="0" lt="527" ct="263" ts="1511863874956" s="true" lb="http://www.amazon.in/" rc="301" rm="Moved Permanently" tn="Tesing.inpage 1-1" dt="text" by="441" sby="117" ng="1" na="1"/>
+  <httpSample t="6044" it="0" lt="3140" ct="1413" ts="1511863875487" s="true" lb="https://www.amazon.in/" rc="200" rm="OK" tn="Tesing.inpage 1-1" dt="text" by="377655" sby="117" ng="1" na="1"/>
+</httpSample>
+<httpSample t="6172" it="0" lt="608" ct="317" ts="1511863881540" s="true" lb="Offers" rc="200" rm="OK" tn="Tesing.inpage 1-1" dt="text" by="479036" sby="284" ng="1" na="1">
+  <httpSample t="608" it="0" lt="608" ct="317" ts="1511863881540" s="true" lb="http://www.amazon.in/gp/goldbox/ref=nav_cs_gb/" rc="301" rm="Moved Permanently" tn="Tesing.inpage 1-1" dt="text" by="491" sby="142" ng="1" na="1"/>
+  <httpSample t="5563" it="0" lt="1810" ct="122" ts="1511863882149" s="true" lb="https://www.amazon.in/gp/goldbox/ref=nav_cs_gb/" rc="200" rm="OK" tn="Tesing.inpage 1-1" dt="text" by="478545" sby="142" ng="1" na="1"/>
+</httpSample>
+<httpSample t="1320" it="0" lt="305" ct="58" ts="1511863887712" s="true" lb="Amazonpay" rc="200" rm="OK" tn="Tesing.inpage 1-1" dt="text" by="125456" sby="300" ng="1" na="1">
+  <httpSample t="305" it="0" lt="305" ct="58" ts="1511863887712" s="true" lb="http://www.amazon.in/gp/sva/dashboard/ref=nav_nav_apay" rc="301" rm="Moved Permanently" tn="Tesing.inpage 1-1" dt="text" by="507" sby="150" ng="1" na="1"/>
+  <httpSample t="1015" it="0" lt="625" ct="91" ts="1511863888017" s="true" lb="https://www.amazon.in/gp/sva/dashboard/ref=nav_nav_apay" rc="200" rm="OK" tn="Tesing.inpage 1-1" dt="text" by="124949" sby="150" ng="1" na="1"/>
+</httpSample>
+<httpSample t="1216" it="0" lt="247" ct="0" ts="1511863889033" s="true" lb="Amazoncart" rc="200" rm="OK" tn="Tesing.inpage 1-1" dt="text" by="126351" sby="296" ng="1" na="1">
+  <httpSample t="247" it="0" lt="247" ct="0" ts="1511863889033" s="true" lb="http://www.amazon.in/gp/cart/view.html/ref=nav_cart/" rc="301" rm="Moved Permanently" tn="Tesing.inpage 1-1" dt="text" by="503" sby="148" ng="1" na="1"/>
+  <httpSample t="968" it="0" lt="563" ct="0" ts="1511863889281" s="true" lb="https://www.amazon.in/gp/cart/view.html/ref=nav_cart/" rc="200" rm="OK" tn="Tesing.inpage 1-1" dt="text" by="125848" sby="148" ng="1" na="1"/>
+</httpSample>
+
+<httpSample t="5188" it="0" lt="862" ct="532" ts="1511864418719" s="true" lb="AmazonIndia" rc="200" rm="OK" tn="Tesing.inpage 1-1" dt="text" by="364559" sby="234" ng="1" na="1">
+  <httpSample t="863" it="0" lt="862" ct="532" ts="1511864418719" s="true" lb="http://www.amazon.in/" rc="301" rm="Moved Permanently" tn="Tesing.inpage 1-1" dt="text" by="441" sby="117" ng="1" na="1"/>
+  <httpSample t="4323" it="0" lt="1597" ct="931" ts="1511864419584" s="true" lb="https://www.amazon.in/" rc="200" rm="OK" tn="Tesing.inpage 1-1" dt="text" by="364118" sby="117" ng="1" na="1"/>
+</httpSample>
+<httpSample t="6209" it="0" lt="414" ct="148" ts="1511864423928" s="true" lb="Offers" rc="200" rm="OK" tn="Tesing.inpage 1-1" dt="text" by="479055" sby="284" ng="1" na="1">
+  <httpSample t="414" it="0" lt="414" ct="148" ts="1511864423928" s="true" lb="http://www.amazon.in/gp/goldbox/ref=nav_cs_gb/" rc="301" rm="Moved Permanently" tn="Tesing.inpage 1-1" dt="text" by="491" sby="142" ng="1" na="1"/>
+  <httpSample t="5795" it="0" lt="1380" ct="141" ts="1511864424342" s="true" lb="https://www.amazon.in/gp/goldbox/ref=nav_cs_gb/" rc="200" rm="OK" tn="Tesing.inpage 1-1" dt="text" by="478564" sby="142" ng="1" na="1"/>
+</httpSample>
+<httpSample t="2494" it="0" lt="320" ct="54" ts="1511864430140" s="true" lb="Amazonpay" rc="200" rm="OK" tn="Tesing.inpage 1-1" dt="text" by="125253" sby="300" ng="1" na="1">
+  <httpSample t="320" it="0" lt="320" ct="54" ts="1511864430140" s="true" lb="http://www.amazon.in/gp/sva/dashboard/ref=nav_nav_apay" rc="301" rm="Moved Permanently" tn="Tesing.inpage 1-1" dt="text" by="507" sby="150" ng="1" na="1"/>
+  <httpSample t="2173" it="0" lt="1178" ct="120" ts="1511864430461" s="true" lb="https://www.amazon.in/gp/sva/dashboard/ref=nav_nav_apay" rc="200" rm="OK" tn="Tesing.inpage 1-1" dt="text" by="124746" sby="150" ng="1" na="1"/>
+</httpSample>
+<httpSample t="1779" it="0" lt="290" ct="57" ts="1511864432636" s="true" lb="Amazoncart" rc="200" rm="OK" tn="Tesing.inpage 1-1" dt="text" by="126858" sby="296" ng="1" na="1">
+  <httpSample t="290" it="0" lt="290" ct="57" ts="1511864432636" s="true" lb="http://www.amazon.in/gp/cart/view.html/ref=nav_cart/" rc="301" rm="Moved Permanently" tn="Tesing.inpage 1-1" dt="text" by="503" sby="148" ng="1" na="1"/>
+  <httpSample t="1489" it="0" lt="771" ct="229" ts="1511864432926" s="true" lb="https://www.amazon.in/gp/cart/view.html/ref=nav_cart/" rc="200" rm="OK" tn="Tesing.inpage 1-1" dt="text" by="126355" sby="148" ng="1" na="1"/>
+</httpSample>
+
+<httpSample t="4206" it="0" lt="730" ct="184" ts="1511864437428" s="true" lb="AmazonIndia" rc="200" rm="OK" tn="Tesing.inpage 1-1" dt="text" by="406101" sby="234" ng="1" na="1">
+  <httpSample t="730" it="0" lt="730" ct="184" ts="1511864437428" s="true" lb="http://www.amazon.in/" rc="301" rm="Moved Permanently" tn="Tesing.inpage 1-1" dt="text" by="441" sby="117" ng="1" na="1"/>
+  <httpSample t="3473" it="0" lt="1741" ct="979" ts="1511864438161" s="true" lb="https://www.amazon.in/" rc="200" rm="OK" tn="Tesing.inpage 1-1" dt="text" by="405660" sby="117" ng="1" na="1"/>
+</httpSample>
+<httpSample t="5015" it="0" lt="313" ct="54" ts="1511864441656" s="true" lb="Offers" rc="200" rm="OK" tn="Tesing.inpage 1-1" dt="text" by="479267" sby="284" ng="1" na="1">
+  <httpSample t="313" it="0" lt="313" ct="54" ts="1511864441656" s="true" lb="http://www.amazon.in/gp/goldbox/ref=nav_cs_gb/" rc="301" rm="Moved Permanently" tn="Tesing.inpage 1-1" dt="text" by="491" sby="142" ng="1" na="1"/>
+  <httpSample t="4701" it="0" lt="910" ct="399" ts="1511864441970" s="true" lb="https://www.amazon.in/gp/goldbox/ref=nav_cs_gb/" rc="200" rm="OK" tn="Tesing.inpage 1-1" dt="text" by="478776" sby="142" ng="1" na="1"/>
+</httpSample>
+<httpSample t="2905" it="0" lt="1558" ct="284" ts="1511864446673" s="true" lb="Amazonpay" rc="200" rm="OK" tn="Tesing.inpage 1-1" dt="text" by="125686" sby="300" ng="1" na="1">
+  <httpSample t="1558" it="0" lt="1558" ct="284" ts="1511864446673" s="true" lb="http://www.amazon.in/gp/sva/dashboard/ref=nav_nav_apay" rc="301" rm="Moved Permanently" tn="Tesing.inpage 1-1" dt="text" by="507" sby="150" ng="1" na="1"/>
+  <httpSample t="1347" it="0" lt="773" ct="133" ts="1511864448231" s="true" lb="https://www.amazon.in/gp/sva/dashboard/ref=nav_nav_apay" rc="200" rm="OK" tn="Tesing.inpage 1-1" dt="text" by="125179" sby="150" ng="1" na="1"/>
+</httpSample>
+<httpSample t="2827" it="0" lt="1070" ct="311" ts="1511864449580" s="true" lb="Amazoncart" rc="200" rm="OK" tn="Tesing.inpage 1-1" dt="text" by="126809" sby="296" ng="1" na="1">
+  <httpSample t="1071" it="0" lt="1070" ct="311" ts="1511864449580" s="true" lb="http://www.amazon.in/gp/cart/view.html/ref=nav_cart/" rc="301" rm="Moved Permanently" tn="Tesing.inpage 1-1" dt="text" by="503" sby="148" ng="1" na="1"/>
+  <httpSample t="1756" it="0" lt="991" ct="204" ts="1511864450651" s="true" lb="https://www.amazon.in/gp/cart/view.html/ref=nav_cart/" rc="200" rm="OK" tn="Tesing.inpage 1-1" dt="text" by="126306" sby="148" ng="1" na="1"/>
+</httpSample>
+
+<httpSample t="8439" it="0" lt="456" ct="233" ts="1511864729702" s="true" lb="AmazonIndia" rc="200" rm="OK" tn="Tesing.inpage 1-1" dt="text" by="364289" sby="234" ng="1" na="1">
+  <httpSample t="457" it="0" lt="456" ct="233" ts="1511864729702" s="true" lb="http://www.amazon.in/" rc="301" rm="Moved Permanently" tn="Tesing.inpage 1-1" dt="text" by="441" sby="117" ng="1" na="1"/>
+  <httpSample t="7979" it="0" lt="2355" ct="1429" ts="1511864730162" s="true" lb="https://www.amazon.in/" rc="200" rm="OK" tn="Tesing.inpage 1-1" dt="text" by="363848" sby="117" ng="1" na="1"/>
+</httpSample>
+<httpSample t="6512" it="0" lt="618" ct="85" ts="1511864738157" s="true" lb="Offers" rc="200" rm="OK" tn="Tesing.inpage 1-1" dt="text" by="478540" sby="284" ng="1" na="1">
+  <httpSample t="619" it="0" lt="618" ct="85" ts="1511864738157" s="true" lb="http://www.amazon.in/gp/goldbox/ref=nav_cs_gb/" rc="301" rm="Moved Permanently" tn="Tesing.inpage 1-1" dt="text" by="491" sby="142" ng="1" na="1"/>
+  <httpSample t="5893" it="0" lt="1192" ct="498" ts="1511864738776" s="true" lb="https://www.amazon.in/gp/goldbox/ref=nav_cs_gb/" rc="200" rm="OK" tn="Tesing.inpage 1-1" dt="text" by="478049" sby="142" ng="1" na="1"/>
+</httpSample>
+<httpSample t="2886" it="0" lt="338" ct="72" ts="1511864744669" s="true" lb="Amazonpay" rc="200" rm="OK" tn="Tesing.inpage 1-1" dt="text" by="125426" sby="300" ng="1" na="1">
+  <httpSample t="338" it="0" lt="338" ct="72" ts="1511864744669" s="true" lb="http://www.amazon.in/gp/sva/dashboard/ref=nav_nav_apay" rc="301" rm="Moved Permanently" tn="Tesing.inpage 1-1" dt="text" by="507" sby="150" ng="1" na="1"/>
+  <httpSample t="2548" it="0" lt="1242" ct="384" ts="1511864745007" s="true" lb="https://www.amazon.in/gp/sva/dashboard/ref=nav_nav_apay" rc="200" rm="OK" tn="Tesing.inpage 1-1" dt="text" by="124919" sby="150" ng="1" na="1"/>
+</httpSample>
+<httpSample t="4566" it="0" lt="357" ct="84" ts="1511864747556" s="true" lb="Amazoncart" rc="200" rm="OK" tn="Tesing.inpage 1-1" dt="text" by="126161" sby="296" ng="1" na="1">
+  <httpSample t="357" it="0" lt="357" ct="84" ts="1511864747556" s="true" lb="http://www.amazon.in/gp/cart/view.html/ref=nav_cart/" rc="301" rm="Moved Permanently" tn="Tesing.inpage 1-1" dt="text" by="503" sby="148" ng="1" na="1"/>
+  <httpSample t="4209" it="0" lt="1708" ct="817" ts="1511864747913" s="true" lb="https://www.amazon.in/gp/cart/view.html/ref=nav_cart/" rc="200" rm="OK" tn="Tesing.inpage 1-1" dt="text" by="125658" sby="148" ng="1" na="1"/>
+</httpSample>
+
+<httpSample t="5677" it="0" lt="524" ct="222" ts="1511864889921" s="true" lb="AmazonIndia" rc="200" rm="OK" tn="Tesing.inpage 1-1" dt="text" by="364082" sby="234" ng="1" na="1">
+  <httpSample t="524" it="0" lt="524" ct="222" ts="1511864889921" s="true" lb="http://www.amazon.in/" rc="301" rm="Moved Permanently" tn="Tesing.inpage 1-1" dt="text" by="441" sby="117" ng="1" na="1"/>
+  <httpSample t="5150" it="0" lt="2193" ct="1202" ts="1511864890448" s="true" lb="https://www.amazon.in/" rc="200" rm="OK" tn="Tesing.inpage 1-1" dt="text" by="363641" sby="117" ng="1" na="1"/>
+</httpSample>
+<httpSample t="4360" it="0" lt="312" ct="71" ts="1511864895606" s="true" lb="Offers" rc="200" rm="OK" tn="Tesing.inpage 1-1" dt="text" by="478607" sby="284" ng="1" na="1">
+  <httpSample t="312" it="0" lt="312" ct="71" ts="1511864895606" s="true" lb="http://www.amazon.in/gp/goldbox/ref=nav_cs_gb/" rc="301" rm="Moved Permanently" tn="Tesing.inpage 1-1" dt="text" by="491" sby="142" ng="1" na="1"/>
+  <httpSample t="4048" it="0" lt="674" ct="140" ts="1511864895918" s="true" lb="https://www.amazon.in/gp/goldbox/ref=nav_cs_gb/" rc="200" rm="OK" tn="Tesing.inpage 1-1" dt="text" by="478116" sby="142" ng="1" na="1"/>
+</httpSample>
+<httpSample t="2049" it="0" lt="284" ct="73" ts="1511864899967" s="true" lb="Amazonpay" rc="200" rm="OK" tn="Tesing.inpage 1-1" dt="text" by="125209" sby="300" ng="1" na="1">
+  <httpSample t="284" it="0" lt="284" ct="73" ts="1511864899967" s="true" lb="http://www.amazon.in/gp/sva/dashboard/ref=nav_nav_apay" rc="301" rm="Moved Permanently" tn="Tesing.inpage 1-1" dt="text" by="507" sby="150" ng="1" na="1"/>
+  <httpSample t="1764" it="0" lt="647" ct="113" ts="1511864900252" s="true" lb="https://www.amazon.in/gp/sva/dashboard/ref=nav_nav_apay" rc="200" rm="OK" tn="Tesing.inpage 1-1" dt="text" by="124702" sby="150" ng="1" na="1"/>
+</httpSample>
+<httpSample t="1746" it="0" lt="330" ct="72" ts="1511864902017" s="true" lb="Amazoncart" rc="200" rm="OK" tn="Tesing.inpage 1-1" dt="text" by="126308" sby="296" ng="1" na="1">
+  <httpSample t="330" it="0" lt="330" ct="72" ts="1511864902017" s="true" lb="http://www.amazon.in/gp/cart/view.html/ref=nav_cart/" rc="301" rm="Moved Permanently" tn="Tesing.inpage 1-1" dt="text" by="503" sby="148" ng="1" na="1"/>
+  <httpSample t="1416" it="0" lt="670" ct="125" ts="1511864902347" s="true" lb="https://www.amazon.in/gp/cart/view.html/ref=nav_cart/" rc="200" rm="OK" tn="Tesing.inpage 1-1" dt="text" by="125805" sby="148" ng="1" na="1"/>
+</httpSample>
+
+<httpSample t="5587" it="0" lt="517" ct="302" ts="1511865355206" s="true" lb="AmazonIndia" rc="200" rm="OK" tn="Tesing.inpage 1-1" dt="text" by="378234" sby="234" ng="1" na="1">
+  <httpSample t="517" it="0" lt="517" ct="302" ts="1511865355206" s="true" lb="http://www.amazon.in/" rc="301" rm="Moved Permanently" tn="Tesing.inpage 1-1" dt="text" by="614" sby="117" ng="1" na="1"/>
+  <httpSample t="5068" it="0" lt="1608" ct="996" ts="1511865355725" s="true" lb="https://www.amazon.in/" rc="200" rm="OK" tn="Tesing.inpage 1-1" dt="text" by="377620" sby="117" ng="1" na="1"/>
+</httpSample>
+<httpSample t="2427" it="0" lt="261" ct="56" ts="1511865360802" s="true" lb="Offers" rc="200" rm="OK" tn="Tesing.inpage 1-1" dt="text" by="479402" sby="284" ng="1" na="1">
+  <httpSample t="261" it="0" lt="261" ct="56" ts="1511865360802" s="true" lb="http://www.amazon.in/gp/goldbox/ref=nav_cs_gb/" rc="301" rm="Moved Permanently" tn="Tesing.inpage 1-1" dt="text" by="664" sby="142" ng="1" na="1"/>
+  <httpSample t="2166" it="0" lt="634" ct="91" ts="1511865361063" s="true" lb="https://www.amazon.in/gp/goldbox/ref=nav_cs_gb/" rc="200" rm="OK" tn="Tesing.inpage 1-1" dt="text" by="478738" sby="142" ng="1" na="1"/>
+</httpSample>
+<httpSample t="1340" it="0" lt="239" ct="54" ts="1511865363230" s="true" lb="Amazonpay" rc="200" rm="OK" tn="Tesing.inpage 1-1" dt="text" by="126269" sby="300" ng="1" na="1">
+  <httpSample t="239" it="0" lt="239" ct="54" ts="1511865363230" s="true" lb="http://www.amazon.in/gp/sva/dashboard/ref=nav_nav_apay" rc="301" rm="Moved Permanently" tn="Tesing.inpage 1-1" dt="text" by="680" sby="150" ng="1" na="1"/>
+  <httpSample t="1101" it="0" lt="435" ct="98" ts="1511865363469" s="true" lb="https://www.amazon.in/gp/sva/dashboard/ref=nav_nav_apay" rc="200" rm="OK" tn="Tesing.inpage 1-1" dt="text" by="125589" sby="150" ng="1" na="1"/>
+</httpSample>
+<httpSample t="1406" it="0" lt="413" ct="0" ts="1511865364571" s="true" lb="Amazoncart" rc="200" rm="OK" tn="Tesing.inpage 1-1" dt="text" by="127130" sby="296" ng="1" na="1">
+  <httpSample t="413" it="0" lt="413" ct="0" ts="1511865364571" s="true" lb="http://www.amazon.in/gp/cart/view.html/ref=nav_cart/" rc="301" rm="Moved Permanently" tn="Tesing.inpage 1-1" dt="text" by="676" sby="148" ng="1" na="1"/>
+  <httpSample t="993" it="0" lt="318" ct="0" ts="1511865364984" s="true" lb="https://www.amazon.in/gp/cart/view.html/ref=nav_cart/" rc="200" rm="OK" tn="Tesing.inpage 1-1" dt="text" by="126454" sby="148" ng="1" na="1"/>
+</httpSample>
+
+<httpSample t="4222" it="0" lt="581" ct="324" ts="1511865396537" s="true" lb="AmazonIndia" rc="200" rm="OK" tn="Tesing.inpage 1-1" dt="text" by="406882" sby="234" ng="1" na="1">
+  <httpSample t="581" it="0" lt="581" ct="324" ts="1511865396537" s="true" lb="http://www.amazon.in/" rc="301" rm="Moved Permanently" tn="Tesing.inpage 1-1" dt="text" by="614" sby="117" ng="1" na="1"/>
+  <httpSample t="3637" it="0" lt="2211" ct="1666" ts="1511865397122" s="true" lb="https://www.amazon.in/" rc="200" rm="OK" tn="Tesing.inpage 1-1" dt="text" by="406268" sby="117" ng="1" na="1"/>
+</httpSample>
+<httpSample t="2960" it="0" lt="251" ct="68" ts="1511865400769" s="true" lb="Offers" rc="200" rm="OK" tn="Tesing.inpage 1-1" dt="text" by="479376" sby="284" ng="1" na="1">
+  <httpSample t="251" it="0" lt="251" ct="68" ts="1511865400769" s="true" lb="http://www.amazon.in/gp/goldbox/ref=nav_cs_gb/" rc="301" rm="Moved Permanently" tn="Tesing.inpage 1-1" dt="text" by="664" sby="142" ng="1" na="1"/>
+  <httpSample t="2708" it="0" lt="1097" ct="577" ts="1511865401021" s="true" lb="https://www.amazon.in/gp/goldbox/ref=nav_cs_gb/" rc="200" rm="OK" tn="Tesing.inpage 1-1" dt="text" by="478712" sby="142" ng="1" na="1"/>
+</httpSample>
+<httpSample t="2546" it="0" lt="307" ct="58" ts="1511865403730" s="true" lb="Amazonpay" rc="200" rm="OK" tn="Tesing.inpage 1-1" dt="text" by="125939" sby="300" ng="1" na="1">
+  <httpSample t="307" it="0" lt="307" ct="58" ts="1511865403730" s="true" lb="http://www.amazon.in/gp/sva/dashboard/ref=nav_nav_apay" rc="301" rm="Moved Permanently" tn="Tesing.inpage 1-1" dt="text" by="507" sby="150" ng="1" na="1"/>
+  <httpSample t="2239" it="0" lt="1573" ct="476" ts="1511865404037" s="true" lb="https://www.amazon.in/gp/sva/dashboard/ref=nav_nav_apay" rc="200" rm="OK" tn="Tesing.inpage 1-1" dt="text" by="125432" sby="150" ng="1" na="1"/>
+</httpSample>
+<httpSample t="2716" it="0" lt="319" ct="64" ts="1511865406277" s="true" lb="Amazoncart" rc="200" rm="OK" tn="Tesing.inpage 1-1" dt="text" by="126796" sby="296" ng="1" na="1">
+  <httpSample t="319" it="0" lt="319" ct="64" ts="1511865406277" s="true" lb="http://www.amazon.in/gp/cart/view.html/ref=nav_cart/" rc="301" rm="Moved Permanently" tn="Tesing.inpage 1-1" dt="text" by="503" sby="148" ng="1" na="1"/>
+  <httpSample t="2395" it="0" lt="1687" ct="117" ts="1511865406598" s="true" lb="https://www.amazon.in/gp/cart/view.html/ref=nav_cart/" rc="200" rm="OK" tn="Tesing.inpage 1-1" dt="text" by="126293" sby="148" ng="1" na="1"/>
+</httpSample>
+
+<httpSample t="3672" it="0" lt="508" ct="323" ts="1511865579176" s="true" lb="AmazonIndia" rc="200" rm="OK" tn="Tesing.inpage 1-1" dt="text" by="379122" sby="234" ng="1" na="1">
+  <httpSample t="509" it="0" lt="508" ct="323" ts="1511865579176" s="true" lb="http://www.amazon.in/" rc="301" rm="Moved Permanently" tn="Tesing.inpage 1-1" dt="text" by="614" sby="117" ng="1" na="1"/>
+  <httpSample t="3161" it="0" lt="1315" ct="938" ts="1511865579687" s="true" lb="https://www.amazon.in/" rc="200" rm="OK" tn="Tesing.inpage 1-1" dt="text" by="378508" sby="117" ng="1" na="1"/>
+</httpSample>
+<httpSample t="3060" it="0" lt="232" ct="44" ts="1511865582855" s="true" lb="Offers" rc="200" rm="OK" tn="Tesing.inpage 1-1" dt="text" by="479581" sby="284" ng="1" na="1">
+  <httpSample t="232" it="0" lt="232" ct="44" ts="1511865582855" s="true" lb="http://www.amazon.in/gp/goldbox/ref=nav_cs_gb/" rc="301" rm="Moved Permanently" tn="Tesing.inpage 1-1" dt="text" by="664" sby="142" ng="1" na="1"/>
+  <httpSample t="2828" it="0" lt="522" ct="113" ts="1511865583087" s="true" lb="https://www.amazon.in/gp/goldbox/ref=nav_cs_gb/" rc="200" rm="OK" tn="Tesing.inpage 1-1" dt="text" by="478917" sby="142" ng="1" na="1"/>
+</httpSample>
+<httpSample t="1466" it="0" lt="370" ct="53" ts="1511865585915" s="true" lb="Amazonpay" rc="200" rm="OK" tn="Tesing.inpage 1-1" dt="text" by="126217" sby="300" ng="1" na="1">
+  <httpSample t="370" it="0" lt="370" ct="53" ts="1511865585915" s="true" lb="http://www.amazon.in/gp/sva/dashboard/ref=nav_nav_apay" rc="301" rm="Moved Permanently" tn="Tesing.inpage 1-1" dt="text" by="680" sby="150" ng="1" na="1"/>
+  <httpSample t="1096" it="0" lt="430" ct="99" ts="1511865586285" s="true" lb="https://www.amazon.in/gp/sva/dashboard/ref=nav_nav_apay" rc="200" rm="OK" tn="Tesing.inpage 1-1" dt="text" by="125537" sby="150" ng="1" na="1"/>
+</httpSample>
+<httpSample t="996" it="0" lt="188" ct="0" ts="1511865587382" s="true" lb="Amazoncart" rc="200" rm="OK" tn="Tesing.inpage 1-1" dt="text" by="127128" sby="296" ng="1" na="1">
+  <httpSample t="188" it="0" lt="188" ct="0" ts="1511865587382" s="true" lb="http://www.amazon.in/gp/cart/view.html/ref=nav_cart/" rc="301" rm="Moved Permanently" tn="Tesing.inpage 1-1" dt="text" by="676" sby="148" ng="1" na="1"/>
+  <httpSample t="808" it="0" lt="234" ct="0" ts="1511865587570" s="true" lb="https://www.amazon.in/gp/cart/view.html/ref=nav_cart/" rc="200" rm="OK" tn="Tesing.inpage 1-1" dt="text" by="126452" sby="148" ng="1" na="1"/>
+</httpSample>
+
+</testResults>
